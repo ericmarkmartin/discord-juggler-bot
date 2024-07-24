@@ -1,0 +1,9 @@
+[package]
+name = "discord-juggle-bot"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+poise = "0.6.1"
+rand = "0.8.5"
+tokio = "1.39.1"
